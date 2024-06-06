@@ -8,6 +8,7 @@ namespace Service.Helpers.Enums
 {
     public enum Roles
     {
+        // comment added.
         Admin=1,
         Member
 
